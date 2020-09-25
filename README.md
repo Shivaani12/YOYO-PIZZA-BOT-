@@ -1,6 +1,6 @@
-# Cosmic Pizzas🌌
+# YOYO-PIZZA🌌
 
-A pizza 🍕 customization and delivery 🚚 service built in pure HTML, CSS & 🍦JS.
+A pizza 🍕 customization and delivery 🚚 service built in pure HTML, CSS & 🍦JS. and cosmicbot 
 
 ### Useless stuff:
 - 8 veg 🍅 and 5 non-veg 🍗 toppings to choose from.
@@ -10,4 +10,4 @@ A pizza 🍕 customization and delivery 🚚 service built in pure HTML, CSS & �
 - Can order upto 5 pizzas at the same time.
 - Absolutely NO discount!
 
-![screenshot](/assets/images/screenshot.png)
+
